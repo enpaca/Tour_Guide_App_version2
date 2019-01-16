@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorPrimaryLight">#B2DFDB</color>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorTextAndIcon">#FFFFFF</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+
+
+
+
+    <color name="colorAttractions">#1174ec</color>
+    <color name="colorRestaurants">#833d1c</color>
+    <color name="colorShopping">#b21333</color>
+    <color name="colorParks">#0f8109</color>
+    <color name="colorBackground">#FFFFFF</color>
+</resources>

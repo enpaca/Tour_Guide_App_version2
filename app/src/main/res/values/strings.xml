@@ -1,0 +1,45 @@
+<resources>
+    <!--Title for the application-->
+    <string name="app_name">Prishtina Tour Guide</string>
+    <!--Name of the first category-->
+    <string name="first_category_name">Attractions</string>
+    <!--Name of the second category-->
+    <string name="second_category_name">Restaurants</string>
+    <!--Name of the third category-->
+    <string name="third_category_name">Shopping Malls</string>
+    <!--Name of the fourth category-->
+    <string name="fourth_category_name">Parks</string>
+    <string name="text">Text</string>
+    <!--Attractios name-->
+    <string name="attraction_one">Mother Teresa Square</string>
+    <string name="attraction_two">Zahir Pajaziti Square</string>
+    <string name="attraction_three">The clock Tower</string>
+    <string name="attraction_four">Kosovo Government building</string>
+    <string name="attraction_five">Cathedral of Mother Teresa</string>
+    <string name="attraction_six">Tomb of Sultan Murad</string>
+    <string name="attraction_seven">New Born</string>
+    <!--Restraunts name-->
+    <string name="restaurants_one">Pishat</string>
+    <string name="restaurants_two">Taverna Tirona</string>
+    <string name="restaurants_three">Napoli</string>
+    <string name="restaurants_four">Miqt Taverna</string>
+    <string name="restaurants_five">Carpe Diem</string>
+    <string name="restaurants_six">Green &amp; Protein</string>
+    <string name="restaurants_seven">Ginnis</string>
+    <!--Shopping Malls name-->
+    <string name="shopping_one">Albi Mall</string>
+    <string name="shopping_two">Grand Store</string>
+    <string name="shopping_three">Royal Mall</string>
+    <string name="shopping_four">A&amp;M Mega Store</string>
+    <string name="shopping_five">ETC</string>
+    <string name="shopping_six">Interex</string>
+    <string name="shopping_seven">Neptun</string>
+    <!--Parks name-->
+    <string name="parks_one">Gërmia</string>
+    <string name="parks_two">Taukbahqe</string>
+    <string name="parks_three">Parku i qytetit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
